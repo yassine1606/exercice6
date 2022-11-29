@@ -1,0 +1,12 @@
+#total{
+    display: flex;
+    justify-content: space-around;
+}
+.maclass{
+    height: 120px;
+    background-color: red;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
